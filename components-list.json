@@ -1,7 +1,7 @@
 [
     {
     "name": "Button",
-    "path": "react-native/Button/button.js",
+    "path": "reactnative/Button/Button.tsx",
     "category": "UI"
     }
 ]
