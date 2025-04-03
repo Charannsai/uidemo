@@ -1,12 +1,13 @@
 [
-    
     {
         "name": "Button",
+        "framwork": "reactnative",
         "path": "reactnative/Button/Button.tsx",
         "category": "UI"
         },
         {
         "name": "Card",
+        "framwork": "reactnative",
         "path": "reactnative/Card/Card.tsx",  
         "category": "UI"
         }    

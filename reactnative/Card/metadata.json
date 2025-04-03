@@ -1,5 +1,6 @@
 {
     "name": "Card",
+    "framwork": "reactnative",
     "path": "reactnative/Card/Card.tsx",
     "category": "UI"
 }
