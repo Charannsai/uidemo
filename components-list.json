@@ -1,7 +1,7 @@
 [
     {
     "name": "Button",
-    "path": "flutter/Button/button.dart",
+    "path": "react-native/Button/button.js",
     "category": "UI"
     }
 ]
