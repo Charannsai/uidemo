@@ -10,5 +10,11 @@
         "framwork": "react-native",
         "path": "react-native/Card/Card.tsx",  
         "category": "UI"
+        },
+        {
+        "name": "Accordin",
+        "framwork": "react-native",
+        "path": "react-native/Accordin/Accordin.tsx",  
+        "category": "UI"
         }
 ]
