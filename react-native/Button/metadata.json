@@ -1,6 +1,6 @@
 {
     "name": "Button",
-    "framwork": "reactnative",
-    "path": "reactnative/Button/Button.tsx",
+    "framwork": "react-native",
+    "path": "react-native/Button/Button.tsx",
     "category": "UI"
 }
